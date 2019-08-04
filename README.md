@@ -8,4 +8,4 @@ Te aparecerá un cuadro en el centro de la pantalla, ahí debes pegar el script 
 
 ### Hamburguesa
 
-https://www.danilotoro.com/wp-content/uploads/2019/08/Screenshot_2019-08-04-Node-RED-virtual-assistant-learning-mybluemix-net-2.png
+![Screenshot de hamburguesa](https://github.com/TrommlerA/Blog-Nodered/blob/master/Screenshot_2019-08-04%20Node-RED%20virtual-assistant-learning%20mybluemix%20net.png)
