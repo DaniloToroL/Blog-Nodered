@@ -1,6 +1,6 @@
 # Bot en Telegram y Facebook con Watson Assistant y Node-red
 
-Este script contiene el flujo para hacer un bot en Telegram y Facebook utilizando Nodered.
+Este repositorio contiene el flujo para hacer un bot en Telegram y Facebook utilizando Nodered.
 Los pasos de como se crearon lof flujos están divididos en tres partes. 
 - [Bot en Telegram con Watson Assistant y Node-red](https://www.danilotoro.com/2019/03/12/bot-en-telegram-con-watson-assistant-y-node-red/)
 - [Bot en Telegram con Watson Assistant y Node-red 2](https://www.danilotoro.com/2019/08/03/bot-en-telegram-con-watson-assistant-y-node-red-2/)
